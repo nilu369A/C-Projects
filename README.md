@@ -1,6 +1,6 @@
 # C-Projects
 
-<h3> I am going to upload all the basic projects in this repositori I am creating in my c journey </h3>
+<h3> I am going to upload all the basic projects in this repositori, I am gonna create in my c journey </h3>
 
 <h4>1. Guess game ---></h4>
 
