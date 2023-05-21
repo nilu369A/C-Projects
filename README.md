@@ -7,3 +7,6 @@
 <h4>2. Simple calculator ---></h4> 
 
 Conditional instruction and Loops( do-while, if-else, else-if ) are being used to create this program.
+
+<h4>3.Password Strength Checker ---></h4>
+
