@@ -1,4 +1,4 @@
-# C-Projects
+# 🚀C-Projects
 
 <h3><b>🎯 I am going to upload all the basic projects in this repositori, I am gonna create in my c journey </b></h3>
 
@@ -23,3 +23,22 @@ iii)Check if the password includes numbers.<br>
 iv)Check if the password includes special characters.<br>
 4.Assign a strength level: Based on the evaluation of the password against the criteria, assign a strength level such as weak, medium, or strong.<br>
 5.Provide feedback: Print a message indicating the strength level of the password. You can also provide specific feedback on the criteria the password meets or fails to meet.
+
+<h3>4.Grade Point Average (GPA) Calculator ---></h3>
+
+Conditional instruction, Loops(for, if-else), Functions(getchar, toupper) are being used to create this program.
+
+<b>Approach ---</b>
+
+1.Prompt the user to enter the number of courses.<br>
+2.For each course, prompt the user to enter the letter grade and credit hours.<br>
+3.Assign grade points to each letter grade based on a standard grading scale:<br>
+i)A: 4.0<br>
+ii)B: 3.0<br>
+iii)C: 2.0<br>
+iv)D: 1.0<br>
+v)F: 0.0<br>
+4.Calculate the weighted sum of grade points by multiplying the grade points of each course by its corresponding credit hours.<br>
+5.Calculate the total credit hours.<br>
+6.Calculate the GPA by dividing the weighted sum of grade points by the total credit hours.<br>
+7.Display the calculated GPA to the user.<br>
