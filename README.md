@@ -4,6 +4,8 @@
 
 <h3>1. Guess game ---></h3>
 
+Loops(if-else) 
+
 <h3>2. Simple calculator ---></h3> 
 
 Conditional instruction and Loops( do-while, if-else, else-if ) are being used to create this program.
