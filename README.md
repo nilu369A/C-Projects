@@ -44,3 +44,6 @@ v)F: 0.0<br>
 5.Calculate the total credit hours.<br>
 6.Calculate the GPA by dividing the weighted sum of grade points by the total credit hours.<br>
 7.Display the calculated GPA to the user.<br>
+
+<h3>5.BMI Calculator ---></h3>
+
