@@ -58,3 +58,15 @@ ii) BMI between 18.5 and 24.9: Normal weight<br>
 iii) BMI between 25 and 29.9: Overweight<br>
 iv) BMI 30 or greater: Obese<br>
 5.Display the calculated BMI and the corresponding category to the user.<br>
+
+<h3>6.Grade Management System ---></h3>
+
+Conditional instruction, Loops(for, if-else) are being used to create this program.
+
+<b>Approach ---</b>
+
+1.Prompt the user to enter the number of students and the number of subjects.<br>
+2.For each student, prompt the user to enter their marks for each subject.<br>
+3.Calculate the average marks for each student.<br>
+4.Determine the grade for each student based on their average marks using conditional instructions.<br>
+5.Display the grades for each student.<br>
