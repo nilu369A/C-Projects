@@ -1,4 +1,7 @@
+// a program that calculates the Body Mass Index (BMI) of a person based on their height and weight inputs
+
 #include<stdio.h>
+
 int main(){
     float weight, height, bmi;
 
@@ -7,12 +10,15 @@ int main(){
 
     printf("Enter your height (in meters): \n");
     scanf("%f", &height);
-
+    
+    // BMI calculation
     bmi = weight / (height * height);
-
+    
+    // print result
     printf("BMI result : \n");
     printf("Your BMI is : %.2f \n", bmi);
-
+    
+    // BMI categories
     if(bmi < 18.5){
         printf("You are underweight.");
     }else if(bmi >= 18.5 && bmi <= 24.9){
