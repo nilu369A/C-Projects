@@ -47,6 +47,8 @@ v) F: 0.0<br>
 
 <h3>5.BMI Calculator ---></h3>
 
+<b>Approach ---</b>
+
 1.Prompt the user to enter their weight in kilograms.<br>
 2.Prompt the user to enter their height in meters.<br>
 3.Calculate the BMI using the formula: BMI = weight / (height * height).<br>
