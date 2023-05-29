@@ -70,3 +70,8 @@ Conditional instruction, Loops(for, if-else) are being used to create this progr
 3.Calculate the average marks for each student.<br>
 4.Determine the grade for each student based on their average marks using conditional instructions.<br>
 5.Display the grades for each student.<br>
+
+<h3>7.</h3>
+
+<b>Approach ---</b>
+
