@@ -71,7 +71,18 @@ Conditional instruction, Loops(for, if-else) are being used to create this progr
 4.Determine the grade for each student based on their average marks using conditional instructions.<br>
 5.Display the grades for each student.<br>
 
-<h3>7.</h3>
+<h3>7.Simple ATM Simulator</h3>
+
+Conditional instructions,loops(else-if)
 
 <b>Approach ---</b>
 
+1.Create a structure to represent an account with attributes such as account number, account holder name, and balance.<br>
+2.Initialize the account with default values.<br>
+3.Display a menu of operations for the user to choose from.<br>
+4.Prompt the user to enter their choice.<br>
+5.Based on the user's choice, use conditional instructions to perform the corresponding operation:<br>
+a. Balance Inquiry: Display the current balance.<br>
+b. Deposit: Prompt the user to enter the deposit amount and update the account balance.<br>
+c. Withdrawal: Prompt the user to enter the withdrawal amount and update the account balance.<br>
+d. Exit: Terminate the program.<br>
