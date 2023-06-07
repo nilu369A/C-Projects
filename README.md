@@ -83,11 +83,11 @@ b. Deposit: Prompt the user to enter the deposit amount and update the account b
 c. Withdrawal: Prompt the user to enter the withdrawal amount and update the account balance.<br>
 d. Exit: Terminate the program.<br>
 
-<h3>8.Temperature Converter</h3>
+<h3>8.Temperature Converter ---> </h3>
 
 Conditional statement(if-else, do-while)<br>
 
-<b>Approach</b>
+<b>Approach ---</b>
 
 1.Prompt the user to enter a temperature and the unit of measurement (Celsius or Fahrenheit).<br>
 2.Use conditional statements to convert the temperature between Celsius and Fahrenheit based on the user's input.<br>
