@@ -67,14 +67,14 @@ int main()
         else if (choice == 7)
         {
             printf("\nEnter temperature : \n");
-            scanf("%f", f);
+            scanf("%f", &f);
             k = (f + 459.67) * 5 / 9;
             printf("%.2f Fahrenheit = %.2f kelvin\n", f, k);
         }
         else if (choice == 8)
         {
             printf("\nEnter temperature : \n");
-            scanf("%f", k);
+            scanf("%f", &k);
             f = (k * 9 / 5) - 459.67;
             printf("%.2f kelvin = %.2f Fahrenheit\n", k, f);
         }
